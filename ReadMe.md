@@ -8,6 +8,7 @@ Check the "Example Output" directory for some example output from this program.
 First, you'll need to install all the dependencies needed.
 
 To run the script, you need to first define environment variables as follows:
+
     export SPOTIPY_CLIENT_ID='your_client_id_here'
     export SPOTIPY_CLIENT_SECRET='your_client_secret_here'
     export SPOTIPY_REDIRECT_URI='http://www.google.com'
